@@ -1,4 +1,4 @@
-# Računalniški praktikum
+#Računalniški praktikum
 
 # Bližnjice na tipkovnici:
 #    - Izberi vse:  Ctrl + A
