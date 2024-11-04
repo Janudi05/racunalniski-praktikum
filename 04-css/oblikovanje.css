@@ -39,7 +39,6 @@ code {
 body section h1 { color:#ff00f2; }
 
 body section h2  {
-
     border-top: 1px #AAAAAA;
     border-top-style: solid;
     margin-top: 2em;
@@ -47,11 +46,20 @@ body section h2  {
   }
 
 #uvod {
-    padding: 2em;
+    margin: 2em;
     background-color: rgb(51, 0, 102, 0.1);
 }
 
-#div {
-    border-color: red;
-    border-width: 2em;
+.slika {
+    font-size: 0.9em;
+    width: 40%;
+    text-align: left;
+    float: right;
+    margin-left: 2em;
+}
+
+.slika img {
+    width: 100%;
+    height: auto;
+    
 }
