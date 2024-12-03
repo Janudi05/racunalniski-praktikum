@@ -3,6 +3,9 @@
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
+
+<a href="file:///C:/Users/Uporabnik/Ra%C4%8Dunalni%C5%A1ki%20praktikum/racunalniski-praktikum/03-html/stran.html">Link</a>
+
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
@@ -52,4 +55,4 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 
 
 Dodajam povezavo do spletna strani iz 5. naloge:
-<a href="file:///C:/Users/Uporabnik/Ra%C4%8Dunalni%C5%A1ki%20praktikum/racunalniski-praktikum/03-html/stran.html">Link</a>
+[Povezava do spletne strani iz 5. naloge](Link)
