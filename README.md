@@ -3,6 +3,9 @@
 <!-- To je komentar, ki bo na prikazanem Markdown-u skrit. 
      V tem besedilu so v komentarjih napisana navodila za reševanje. -->
 
+
+<a href="file:///C:/Users/Uporabnik/Ra%C4%8Dunalni%C5%A1ki%20praktikum/racunalniski-praktikum/03-html/stran.html">Link</a>
+
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
 
@@ -49,3 +52,7 @@ Včasih pride prav značka <kbd>kbd</kbd> za tipke. Značko uporabimo takole:
 2. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619)
 3. [Zapiski in vaje za Računalniški praktikum](http://katjabercic.github.io/racunalniski-praktikum)
 4. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 
+
+
+Dodajam povezavo do spletna strani iz 5. naloge:
+[Povezava do spletne strani iz 5. naloge](Link)
